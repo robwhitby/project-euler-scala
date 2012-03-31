@@ -3,15 +3,10 @@ exec scala "$0" "$@"
 !#
 
 /*
-Starting in the top left corner of a 2x2 grid, there are 6 routes (without backtracking) to the bottom right corner.
+Starting in the top left corner of a 2x2 grid, there are 6 routes 
+(without backtracking) to the bottom right corner.
 
 How many routes are there through a 20x20 grid?
-
-1
-1 2
-1 3 6
-1 4 10 20
-1 5 15 35 70
 */
 
 val size = 20
