@@ -1,7 +1,3 @@
-#!/bin/sh
-exec scala "$0" "$@"
-!#
-
 /*
 What is the greatest product of four adjacent numbers in any direction
 (up, down, left, right, or diagonally) in the 20 x 20 grid?

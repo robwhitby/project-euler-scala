@@ -1,7 +1,3 @@
-#!/bin/sh
-exec scala "$0" "$@"
-!#
-
 /*
 
 By starting at the top of the triangle below and moving to adjacent numbers on

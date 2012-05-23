@@ -1,7 +1,3 @@
-#!/bin/sh
-exec scala "$0" "$@"
-!#
-
 /*
 Find the sum of the digits in the number 100!
 */
